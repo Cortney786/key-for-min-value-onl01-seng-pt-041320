@@ -2,5 +2,6 @@
 # Given a hash with numeric values, return the key for the smallest value
 
 def key_for_min_value(name_hash)
-smallet_value = 1 
+smallest_value = 1 
+smallest_key 
 end
